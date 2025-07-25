@@ -40,6 +40,11 @@ path = 'contracts/research.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.start_and_endtime]
+path = 'contracts/start_and_endtime.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.storage_payment]
 path = 'contracts/storage_payment.clar'
 clarity_version = 2
